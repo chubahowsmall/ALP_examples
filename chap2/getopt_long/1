@@ -1,0 +1,4 @@
+Usage: ./getopt_long options [ inputfile...]
+	-h	--help			Display this message
+	-o	--output		Write output to file
+	-v	--verbose		Print verbose messages
